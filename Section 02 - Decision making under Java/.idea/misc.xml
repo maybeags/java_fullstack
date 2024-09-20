@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/S02L07 - Ternary operator/pom.xml" />
+        <option value="$PROJECT_DIR$/S02L08 -  Assignment operators/pom.xml" />
+        <option value="$PROJECT_DIR$/S02L09 - Making decision with else if/pom.xml" />
+        <option value="$PROJECT_DIR$/S02L01 - Arithematic operators in Java - (Part 01)/pom.xml" />
+        <option value="$PROJECT_DIR$/S02L02 - Arithematic operators in Java - (Part 02)/pom.xml" />
+        <option value="$PROJECT_DIR$/S02L03 - Making decision with operators - (Part 01)/pom.xml" />
+        <option value="$PROJECT_DIR$/S02L04 - Making decision with operators - (Part 02)/pom.xml" />
+        <option value="$PROJECT_DIR$/S02L05 - Making decision with operators - (Part 03)/pom.xml" />
+        <option value="$PROJECT_DIR$/S02L06 - Making decision with operators - (Part 04)/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

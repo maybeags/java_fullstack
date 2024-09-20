@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HelloWorldMaven (8)" />
+        <module name="HelloWorldMaven (7)" />
+        <module name="HelloWorldMaven (6)" />
+        <module name="HelloWorldMaven (5)" />
+        <module name="HelloWorldMaven" />
+        <module name="HelloWorldMaven (4)" />
+        <module name="HelloWorldMaven (3)" />
+        <module name="HelloWorldMaven (2)" />
+        <module name="HelloWorldMaven (1)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
